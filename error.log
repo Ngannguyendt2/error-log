@@ -1,0 +1,65 @@
+[Wed Sep 04 11:05:22.967763 2019] [mpm_prefork:notice] [pid 1010] AH00163: Apache/2.4.29 (Ubuntu) configured -- resuming normal operations
+[Wed Sep 04 11:05:22.967783 2019] [core:notice] [pid 1010] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Sep 04 11:49:51.383478 2019] [php7:warn] [pid 4273] [client ::1:51704] PHP Warning:  A non-numeric value encountered in /var/www/html/tinh-chiet-khau/display_discount.php on line 21, referer: http://localhost/tinh-chiet-khau/index.php
+[Wed Sep 04 11:49:51.383509 2019] [php7:warn] [pid 4273] [client ::1:51704] PHP Warning:  A non-numeric value encountered in /var/www/html/tinh-chiet-khau/display_discount.php on line 21, referer: http://localhost/tinh-chiet-khau/index.php
+[Wed Sep 04 15:12:26.180420 2019] [php7:notice] [pid 4272] [client ::1:59124] PHP Notice:  Undefined index: usd in /var/www/html/usd-vnd/index.php on line 16
+[Wed Sep 04 15:12:34.647914 2019] [php7:notice] [pid 4273] [client ::1:59126] PHP Notice:  Undefined index: usd in /var/www/html/usd-vnd/index.php on line 16
+[Wed Sep 04 15:19:19.136193 2019] [php7:notice] [pid 4345] [client ::1:59156] PHP Notice:  Undefined index: usd in /var/www/html/usd-vnd/index.php on line 19
+[Wed Sep 04 15:21:50.417989 2019] [php7:notice] [pid 4569] [client ::1:59168] PHP Notice:  Undefined index: usd in /var/www/html/usd-vnd/index.php on line 19
+[Wed Sep 04 15:22:57.471904 2019] [php7:notice] [pid 4570] [client ::1:59714] PHP Notice:  Undefined index: usd in /var/www/html/usd-vnd/index.php on line 19
+[Wed Sep 04 15:22:57.471960 2019] [php7:notice] [pid 4570] [client ::1:59714] PHP Notice:  Undefined index: $usd in /var/www/html/usd-vnd/index.php on line 21
+[Wed Sep 04 15:22:57.471971 2019] [php7:notice] [pid 4570] [client ::1:59714] PHP Notice:  Undefined index: $rate in /var/www/html/usd-vnd/index.php on line 21
+[Wed Sep 04 15:23:03.511419 2019] [php7:notice] [pid 4272] [client ::1:59716] PHP Notice:  Undefined index: usd in /var/www/html/usd-vnd/index.php on line 19
+[Wed Sep 04 15:23:03.511480 2019] [php7:notice] [pid 4272] [client ::1:59716] PHP Notice:  Undefined index: $usd in /var/www/html/usd-vnd/index.php on line 21
+[Wed Sep 04 15:23:03.511493 2019] [php7:notice] [pid 4272] [client ::1:59716] PHP Notice:  Undefined index: $rate in /var/www/html/usd-vnd/index.php on line 21
+[Wed Sep 04 15:24:07.469525 2019] [php7:notice] [pid 4275] [client ::1:59738] PHP Notice:  Undefined index: usd in /var/www/html/usd-vnd/index.php on line 19
+[Wed Sep 04 15:24:08.870925 2019] [php7:notice] [pid 4275] [client ::1:59738] PHP Notice:  Undefined index: usd in /var/www/html/usd-vnd/index.php on line 19
+[Wed Sep 04 15:25:08.043044 2019] [php7:notice] [pid 4274] [client ::1:60114] PHP Notice:  Undefined index: usd in /var/www/html/usd-vnd/index.php on line 19
+[Wed Sep 04 15:25:08.043078 2019] [php7:notice] [pid 4274] [client ::1:60114] PHP Notice:  Undefined index: $usd in /var/www/html/usd-vnd/index.php on line 22
+[Wed Sep 04 15:25:08.043087 2019] [php7:notice] [pid 4274] [client ::1:60114] PHP Notice:  Undefined index: $rate in /var/www/html/usd-vnd/index.php on line 22
+[Wed Sep 04 15:25:10.400607 2019] [php7:notice] [pid 4274] [client ::1:60114] PHP Notice:  Undefined index: $usd in /var/www/html/usd-vnd/index.php on line 22, referer: http://localhost/usd-vnd/index.php
+[Wed Sep 04 15:25:10.400633 2019] [php7:notice] [pid 4274] [client ::1:60114] PHP Notice:  Undefined index: $rate in /var/www/html/usd-vnd/index.php on line 22, referer: http://localhost/usd-vnd/index.php
+[Wed Sep 04 15:25:13.199051 2019] [php7:notice] [pid 4274] [client ::1:60114] PHP Notice:  Undefined index: $usd in /var/www/html/usd-vnd/index.php on line 22, referer: http://localhost/usd-vnd/index.php
+[Wed Sep 04 15:25:13.199072 2019] [php7:notice] [pid 4274] [client ::1:60114] PHP Notice:  Undefined index: $rate in /var/www/html/usd-vnd/index.php on line 22, referer: http://localhost/usd-vnd/index.php
+[Wed Sep 04 15:25:14.237254 2019] [php7:notice] [pid 4274] [client ::1:60114] PHP Notice:  Undefined index: $usd in /var/www/html/usd-vnd/index.php on line 22, referer: http://localhost/usd-vnd/index.php
+[Wed Sep 04 15:25:14.237296 2019] [php7:notice] [pid 4274] [client ::1:60114] PHP Notice:  Undefined index: $rate in /var/www/html/usd-vnd/index.php on line 22, referer: http://localhost/usd-vnd/index.php
+[Wed Sep 04 15:25:36.351757 2019] [php7:notice] [pid 4271] [client ::1:60118] PHP Notice:  Undefined index: $usd in /var/www/html/usd-vnd/index.php on line 21, referer: http://localhost/usd-vnd/index.php
+[Wed Sep 04 15:25:36.351782 2019] [php7:notice] [pid 4271] [client ::1:60118] PHP Notice:  Undefined index: $rate in /var/www/html/usd-vnd/index.php on line 21, referer: http://localhost/usd-vnd/index.php
+[Wed Sep 04 15:25:36.888553 2019] [php7:notice] [pid 4271] [client ::1:60118] PHP Notice:  Undefined index: $usd in /var/www/html/usd-vnd/index.php on line 21, referer: http://localhost/usd-vnd/index.php
+[Wed Sep 04 15:25:36.888574 2019] [php7:notice] [pid 4271] [client ::1:60118] PHP Notice:  Undefined index: $rate in /var/www/html/usd-vnd/index.php on line 21, referer: http://localhost/usd-vnd/index.php
+[Wed Sep 04 15:25:46.697350 2019] [php7:notice] [pid 4272] [client ::1:60122] PHP Notice:  Undefined index: $usd in /var/www/html/usd-vnd/index.php on line 21, referer: http://localhost/usd-vnd/index.php
+[Wed Sep 04 15:25:46.697373 2019] [php7:notice] [pid 4272] [client ::1:60122] PHP Notice:  Undefined index: $rate in /var/www/html/usd-vnd/index.php on line 21, referer: http://localhost/usd-vnd/index.php
+[Wed Sep 04 15:25:48.809114 2019] [php7:notice] [pid 4272] [client ::1:60122] PHP Notice:  Undefined index: $usd in /var/www/html/usd-vnd/index.php on line 21, referer: http://localhost/usd-vnd/index.php
+[Wed Sep 04 15:25:48.809145 2019] [php7:notice] [pid 4272] [client ::1:60122] PHP Notice:  Undefined index: $rate in /var/www/html/usd-vnd/index.php on line 21, referer: http://localhost/usd-vnd/index.php
+[Wed Sep 04 15:25:51.774479 2019] [php7:notice] [pid 4272] [client ::1:60122] PHP Notice:  Undefined index: usd in /var/www/html/usd-vnd/index.php on line 19
+[Wed Sep 04 15:25:51.774507 2019] [php7:notice] [pid 4272] [client ::1:60122] PHP Notice:  Undefined index: $usd in /var/www/html/usd-vnd/index.php on line 21
+[Wed Sep 04 15:25:51.774517 2019] [php7:notice] [pid 4272] [client ::1:60122] PHP Notice:  Undefined index: $rate in /var/www/html/usd-vnd/index.php on line 21
+[Wed Sep 04 15:48:47.754032 2019] [php7:error] [pid 4271] [client ::1:60282] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /var/www/html/20-so-ngto/index.php on line 14
+[Wed Sep 04 15:49:21.390036 2019] [php7:error] [pid 4273] [client ::1:60286] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /var/www/html/20-so-ngto/index.php on line 29
+[Wed Sep 04 15:49:54.994047 2019] [php7:error] [pid 4570] [client ::1:60292] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /var/www/html/20-so-ngto/index.php on line 29
+[Wed Sep 04 16:00:07.865231 2019] [php7:notice] [pid 4569] [client ::1:60548] PHP Notice:  Undefined index: usd in /var/www/html/usd-vnd/index.php on line 19
+[Wed Sep 04 16:01:38.905894 2019] [php7:notice] [pid 4271] [client ::1:60558] PHP Notice:  Undefined index: usd in /var/www/html/usd-vnd/index.php on line 19
+[Wed Sep 04 16:01:51.950838 2019] [php7:notice] [pid 4345] [client ::1:60564] PHP Notice:  Undefined index: usd in /var/www/html/usd-vnd/index.php on line 19
+[Wed Sep 04 16:42:54.556836 2019] [php7:notice] [pid 4345] [client ::1:32934] PHP Notice:  Undefined index: number1 in /var/www/html/calculator/index.php on line 26
+[Wed Sep 04 16:42:54.556856 2019] [php7:notice] [pid 4345] [client ::1:32934] PHP Notice:  Undefined index: number2 in /var/www/html/calculator/index.php on line 27
+[Wed Sep 04 16:42:54.556887 2019] [php7:error] [pid 4345] [client ::1:32934] PHP Fatal error:  Uncaught Exception: Value must be 0 or be hight in /var/www/html/calculator/index.php:30\nStack trace:\n#0 {main}\n  thrown in /var/www/html/calculator/index.php on line 30
+[Wed Sep 04 16:42:56.108599 2019] [php7:notice] [pid 4273] [client ::1:32936] PHP Notice:  Undefined index: number1 in /var/www/html/calculator/index.php on line 26
+[Wed Sep 04 16:42:56.108635 2019] [php7:notice] [pid 4273] [client ::1:32936] PHP Notice:  Undefined index: number2 in /var/www/html/calculator/index.php on line 27
+[Wed Sep 04 16:42:56.108675 2019] [php7:error] [pid 4273] [client ::1:32936] PHP Fatal error:  Uncaught Exception: Value must be 0 or be hight in /var/www/html/calculator/index.php:30\nStack trace:\n#0 {main}\n  thrown in /var/www/html/calculator/index.php on line 30
+[Wed Sep 04 16:42:59.012796 2019] [php7:error] [pid 4570] [client ::1:32938] PHP Fatal error:  Uncaught Exception: Value must be 0 or be hight in /var/www/html/calculator/index.php:30\nStack trace:\n#0 {main}\n  thrown in /var/www/html/calculator/index.php on line 30, referer: http://localhost/calculator/index.php
+[Wed Sep 04 16:47:26.557323 2019] [php7:notice] [pid 4274] [client ::1:33106] PHP Notice:  Undefined variable: c in /var/www/html/calculator/index.php on line 27
+[Wed Sep 04 16:47:49.151047 2019] [php7:notice] [pid 4273] [client ::1:33114] PHP Notice:  Undefined variable: c in /var/www/html/calculator/index.php on line 27
+[Wed Sep 04 16:47:49.944850 2019] [php7:notice] [pid 4273] [client ::1:33114] PHP Notice:  Undefined variable: c in /var/www/html/calculator/index.php on line 27
+[Wed Sep 04 16:47:51.019142 2019] [php7:notice] [pid 4273] [client ::1:33114] PHP Notice:  Undefined variable: c in /var/www/html/calculator/index.php on line 27
+[Wed Sep 04 16:47:51.666562 2019] [php7:notice] [pid 4273] [client ::1:33114] PHP Notice:  Undefined variable: c in /var/www/html/calculator/index.php on line 27
+[Wed Sep 04 16:48:14.816296 2019] [php7:warn] [pid 4275] [client ::1:33120] PHP Warning:  Division by zero in /var/www/html/calculator/index.php on line 27
+[Wed Sep 04 17:09:42.136169 2019] [php7:notice] [pid 4274] [client ::1:33390] PHP Notice:  Undefined index: number1 in /var/www/html/calculator/index.php on line 28
+[Wed Sep 04 17:09:42.136194 2019] [php7:notice] [pid 4274] [client ::1:33390] PHP Notice:  Undefined index: number2 in /var/www/html/calculator/index.php on line 29
+[Wed Sep 04 17:09:42.136202 2019] [php7:notice] [pid 4274] [client ::1:33390] PHP Notice:  Undefined index: operator in /var/www/html/calculator/index.php on line 30
+[Wed Sep 04 17:10:01.361033 2019] [php7:warn] [pid 4570] [client ::1:33400] PHP Warning:  Division by zero in /var/www/html/calculator/index.php on line 56, referer: http://localhost/calculator/index.php
+[Wed Sep 04 17:22:45.630256 2019] [mpm_prefork:notice] [pid 1010] AH00169: caught SIGTERM, shutting down
+[Wed Sep 04 20:55:57.074338 2019] [mpm_prefork:notice] [pid 1001] AH00163: Apache/2.4.29 (Ubuntu) configured -- resuming normal operations
+[Wed Sep 04 20:55:57.074554 2019] [core:notice] [pid 1001] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Sep 04 22:19:22.116411 2019] [mpm_prefork:notice] [pid 1001] AH00169: caught SIGTERM, shutting down
+[Thu Sep 05 07:53:43.363581 2019] [mpm_prefork:notice] [pid 1029] AH00163: Apache/2.4.29 (Ubuntu) configured -- resuming normal operations
+[Thu Sep 05 07:53:43.364731 2019] [core:notice] [pid 1029] AH00094: Command line: '/usr/sbin/apache2'
